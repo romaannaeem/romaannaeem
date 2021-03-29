@@ -3,7 +3,7 @@
 - 🧠 I have an insatiable thirst for knowledge and am interested in history, technology, philosophy, geopolitics, and how things work, to name a few!
 - 🎮 I play a ton of strategy games (anyone else into Paradox games??)
 - 🇨🇦 Proudly Canadian! 🇨🇦
-- 📫 You can reach me at romaan.naeem@outlook.com, or on twitter @romaanster
+- 📫 You can reach me at romaan.naeem@outlook.com, or on twitter [@romaanster](https://twitter.com/romaanster)
 
 <!---
 romaannaeem/romaannaeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
