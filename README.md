@@ -2,7 +2,7 @@
 - 💻 I’m currently working as a technical co-founder of a startup (top secret for now!).
 - 🧠 I have an insatiable thirst for knowledge and am interested in history, technology, philosophy, geopolitics, and how things work, to name a few!
 - 🎮 I play a ton of strategy games (anyone else into Paradox games??)
-- 🇨🇦 Proudly Canadian!
+- 🇨🇦 Proudly Canadian! 🇨🇦
 - 📫 You can reach me at romaan.naeem@outlook.com, or on twitter @romaanster
 
 <!---
