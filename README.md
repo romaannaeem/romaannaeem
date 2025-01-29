@@ -1,6 +1,6 @@
 # Hey! 👋🏽 I'm Romaan 
-- 👋 I'm a full-stack web developer currently working with the MERN stack.
-- 💻 I’m currently working as a technical co-founder of a startup (top secret for now!).
+- 👋 I'm a full-stack web developer working with JS stacks
+- 💻 Check out our project - [Beer Awards Platform](https://beerawardsplatform.com/)
 - 🧠 I have an insatiable thirst for knowledge and am interested in history, technology, and aviation.
 - 🇨🇦 Proudly Canadian! 🇨🇦
 - 📫 You can reach me at romaan.naeem@outlook.com, or on twitter [@romaanster](https://twitter.com/romaanster)
