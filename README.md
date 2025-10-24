@@ -6,6 +6,4 @@ I'm a full-stack software engineer with 7+ years of experience building real-wor
 
 I'm currently working as a Developer at **[Punchcard Systems](https://punchcard.io)**!
 
----
-
 💡 I'm passionate about solving real problems with tech, especially where fast development meets user insight. Outside of work, I’m a history nerd, strategy gamer, and coffee-powered builder ☕️.
