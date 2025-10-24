@@ -4,7 +4,7 @@ I'm a full-stack software engineer with 7+ years of experience building real-wor
 
 ### 💼 What I'm up to now:
 
-I'm currently working as a Developer at **[Punchcard Systems](https://punchcard.io)**!
+I'm currently working as a developer at **[Punchcard Systems](https://punchcard.io)**!
 
 ---
 
